@@ -1,3 +1,7 @@
 # EXTENDED-STL
-A well written constructive library which extends the scope of the C++STL under the namespace exstd.
-Generic , Equipped with template specialization and metaprogramming , Extremely user friendly , Based on Modern OOP Paradigm and Provides advanced ADTs
+A well written , Constructive library which extends the scope of C++ STL under the namespace exstd.
+• Extremely user-friendly , Based on Modern OOP paradigm , equipped with template metaprogramming and
+specialization.
+• It provides Advanced ADTs for complex data structures like Graphs , Tries , Disjoint Sets , Segment Trees and
+many more.
+• It has many applications in C++ development and Competitive Programming Contests.
